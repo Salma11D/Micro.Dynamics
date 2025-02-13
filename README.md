@@ -1,6 +1,14 @@
 # Micro.Dynamics
 Dinámica en ciencias económicas
 
+El PRIMER archivo, contiene los borradores respectivos del código creado
+
+El SEGUNDO archivo, contiene la versión final del códifo creado
+
+
+
+
+
 Se elabora un programa para analizar ecuaciones diferenciales. Este programa proporciona el cálculo de vectores y valores propios asociados a una matriz dada. Además, grafica la dinámica del sistema para comprender sus trayectorias.
 
 Nombre asignado para el programa: Ron´DynamicS , en honor a sus creadores: Ronaldo y Salma
