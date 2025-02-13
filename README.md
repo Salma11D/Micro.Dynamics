@@ -2,6 +2,7 @@
 Dinámica en ciencias económicas
 
 RonDynamicS
+
 Nombre de los integrantes: Ronaldo Batalla Salma Ramadan
 
 Correos institucionales y repositorios: Ronaldo: rbatallaarroyfl@flacso.edu.ec
