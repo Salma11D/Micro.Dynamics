@@ -1,9 +1,16 @@
 # Micro.Dynamics
 Dinámica en ciencias económicas
 
-El PRIMER archivo, contiene los borradores respectivos del código creado
+RonDynamicS
+Nombre de los integrantes: Ronaldo Batalla Salma Ramadan
 
-El SEGUNDO archivo, contiene la versión final del códifo creado
+Correos institucionales y repositorios: Ronaldo: rbatallaarroyfl@flacso.edu.ec
+
+Repositorio Github: https://github.com/REBA1996/proyecto-sistemas
+
+Salma: sramadanfl@flacso.edu.ec
+
+Repositorio Github:https://github.com/Salma11D/Micro.Dynamics
 
 
 
