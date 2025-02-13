@@ -1,12 +1,20 @@
 # Micro.Dynamics
-Dinámica en ciencias económicas 
-Se elabora un programa para analizar ecuaciones diferenciales. Este programa proporciona el cálculo de vectores y valores propios asociados a una matriz dada. Además, grafica la dinámica del sistema para comprender sus trayectorias. Nombre asignado para el programa: Ron´DynamicS , en honor a sus creadores: Ronaldo y Salma
+Dinámica en ciencias económicas
+
+Se elabora un programa para analizar ecuaciones diferenciales. Este programa proporciona el cálculo de vectores y valores propios asociados a una matriz dada. Además, grafica la dinámica del sistema para comprender sus trayectorias.
+
+Nombre asignado para el programa: Ron´DynamicS , en honor a sus creadores: Ronaldo y Salma
 
 Descripción y explicación del programa elaborado
+
 Este código crea un programa interactivo en Python para trabajar con matrices, resolver sistemas de ecuaciones lineales y analizar sus propiedades, como valores y vectores propios. A continuación una breve explicación de los pasos a seguir para la creación de este programa
 
 Importación de Librerías:
-NumPy (np): Para operaciones numéricas SymPy (sp): Para matemáticas simbólicas ipywidgets: Para crear widgets interactivos IPython.display: Para mostrar elementos interactivos Matplotlib (plt): Para graficar diagramas de fase y soluciones de ecuaciones diferenciales. SciPy.integrate: Para resolver ecuaciones diferenciales numéricamente.
+NumPy (np): Para operaciones numéricas 
+SymPy (sp): Para matemáticas simbólicas ipywidgets: Para crear widgets interactivos 
+IPython.display: Para mostrar elementos interactivos
+Matplotlib (plt): Para graficar diagramas de fase y soluciones de ecuaciones diferenciales.
+SciPy.integrate: Para resolver ecuaciones diferenciales numéricamente.
 
 Función crear_matriz_interactiva(filas, columnas):
 Esto nos permite crear crear una matriz de ceros con las dimensiones especificadas por el usuario. Utiliza bucles for y widgets FloatText para generar cuadros de texto donde el usuario puede ingresar los valores de cada elemento de la matriz.
